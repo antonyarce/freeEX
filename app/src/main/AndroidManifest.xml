@@ -19,6 +19,7 @@
         </activity>
 
         <activity
+
             android:name=".chatActivity"
             android:label="@string/title_activity_chat" >
             <intent-filter>
